@@ -1,3 +1,5 @@
 Added Readme file.
 
 A change to the readme file.
+
+java -cp target/classes/ HelloWorld.SSLPoke mvn.lala.de 443
